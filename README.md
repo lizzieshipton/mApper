@@ -27,7 +27,9 @@ ___
 
 ## OUR TECH STACK
 
-![tech](http://www.lizzieshipton.com/hosting?lightbox=dataItem-iws0bhwb)
+![tech][logos]
+
+[logos]: https://static.wixstatic.com/media/59e569_2381338b27b7460180adc99e6529e954~mv2.png/v1/fill/w_960,h_540,al_c/59e569_2381338b27b7460180adc99e6529e954~mv2.png
 
 
 ## DEPENDENCIES
@@ -71,16 +73,3 @@ npm start
 
   This will populate your database with 50 initial locations selected from London, Chicago, New York, San Francisco and Istanbul.
 
-
-
-## KNOWN BUGS
-
-1. Cookies don't totally work - if you switch the user, it makes user undefined, instead of taking you back to the instruction page to log in with new initials
-
-2. Sometimes it will freeze after 6 rounds....but usually not
-
-3. We are querying the entire DB every time we need a random city, which is probably not the most efficient method
-
-4. If the browser is zoomed in (or in some cases if the resolution is very different from what the game was designed for) the list of cities at the bottom of the screen will render really....wrong-looking
-
-5.  Not mobile optimized
