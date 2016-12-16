@@ -17,12 +17,17 @@ ___
 
 ## TABLE OF CONTENTS
 
-1. [Dependencies](# dependencies)
-2. [Development](# develop-/-contribute)
+1. [Tech](# our-tech-stack)
+2. [Dependencies](# dependencies)
+3. [Development](# develop-/-contribute)
   * [Usage](# usage)
   * [Tasks](# tasks)
-3. [Known Bugs (Updated October, 2016)](# known-bugs)
+4. [Known Bugs (Updated October, 2016)](# known-bugs)
 
+
+## OUR TECH STACK
+
+![tech](https://static.wixstatic.com/media/59e569_2381338b27b7460180adc99e6529e954~mv2.png/v1/fill/w_960,h_540,al_c/59e569_2381338b27b7460180adc99e6529e954~mv2.png)
 
 
 ## DEPENDENCIES
