@@ -27,7 +27,7 @@ ___
 
 ## OUR TECH STACK
 
-![tech](https://static.wixstatic.com/media/59e569_2381338b27b7460180adc99e6529e954~mv2.png/v1/fill/w_960,h_540,al_c/59e569_2381338b27b7460180adc99e6529e954~mv2.png)
+![tech](http://www.lizzieshipton.com/hosting?lightbox=dataItem-iws0bhwb)
 
 
 ## DEPENDENCIES
